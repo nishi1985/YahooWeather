@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#80A646E8</color>
+    <color name="colorPrimaryDark">#804D6AFF</color>
+    <color name="colorAccent">#80ff4081</color>
+    <!--SPLASH COLOR-->
+    <color name="sp_color1">#80A646E8</color>
+    <color name="sp_color2">#804D6AFF</color>
+    <color name="sp_color3">#80FF4081</color>
+    <!--MAIN COLOR-->
+    <color name="mn_color2">#4e0084</color>
+    <color name="mn_color1">#000833</color>
+    <color name="mn_color3">#5b001f</color>
+</resources>
